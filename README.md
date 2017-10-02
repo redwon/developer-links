@@ -29,6 +29,7 @@
 [particles.js - красивая анимация](http://vincentgarreau.com/particles.js/)  
 [Vivus - рисует контуры SVG фигуры](https://github.com/maxwellito/vivus)  
 [Позволяет создавать сложные анимации с использованием SVG](http://snapsvg.io/)  
+[Introjs - позволяет создать тур по сайту](http://introjs.com/)  
 
 # CSS Библиотеки
 
@@ -46,11 +47,11 @@
 # Инструкции, шпаргалки
 
 ## CSS
-[Flexbox](http://html5.by/blog/flexbox/)
-[Как работает Flexbox](https://tuhub.ru/frontend/eshhyo-bolshe-o-tom-kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gif-kah/)
-[Flexbox для интерфейсов](http://prgssr.ru/development/fleksboks-dlya-interfejsov-osnovnye-patterny.html)
-[Стилизация select](http://kate-land.net/html-css/item/336-cross-browser-styling-of-select-on-pure-css)
-[Оформление модальных окон](http://prgssr.ru/development/oformlenie-modalnyh-okon.html)
+[Flexbox](http://html5.by/blog/flexbox/)  
+[Как работает Flexbox](https://tuhub.ru/frontend/eshhyo-bolshe-o-tom-kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gif-kah/)  
+[Flexbox для интерфейсов](http://prgssr.ru/development/fleksboks-dlya-interfejsov-osnovnye-patterny.html)  
+[Стилизация select](http://kate-land.net/html-css/item/336-cross-browser-styling-of-select-on-pure-css)  
+[Оформление модальных окон](http://prgssr.ru/development/oformlenie-modalnyh-okon.html)  
 
 ## JavaScript
 [Плавающий блок (sticky block)](http://shpargalkablog.ru/2013/09/scroll-block.html)  
