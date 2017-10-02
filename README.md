@@ -111,6 +111,7 @@
 
 [f.lux - меняет цветовую температуру монитора](https://justgetflux.com/)  
 [Prepros - компилятор стилей и не только, есть Livereload](https://prepros.io/)  
+[Cmder - консоль для Windows](http://cmder.net/)  
 
 # Книги
 
