@@ -30,6 +30,7 @@
 [Vivus - рисует контуры SVG фигуры](https://github.com/maxwellito/vivus)  
 [Позволяет создавать сложные анимации с использованием SVG](http://snapsvg.io/)  
 [Introjs - позволяет создать тур по сайту](http://introjs.com/)  
+[Sortable - Drag and drop](http://rubaxa.github.io/Sortable/)  
 [Dragula - Drag and drop](https://github.com/bevacqua/dragula)  
 
 # CSS Библиотеки
