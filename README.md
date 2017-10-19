@@ -32,6 +32,9 @@
 [Introjs - позволяет создать тур по сайту](http://introjs.com/)  
 [Sortable - Drag and drop](http://rubaxa.github.io/Sortable/)  
 [Dragula - Drag and drop](https://github.com/bevacqua/dragula)  
+[C3.js - Chart](http://c3js.org/)  
+[DataTables - Advanced table](https://datatables.net/)  
+[Tablesaw - Responsive table](https://github.com/filamentgroup/tablesaw)  
 
 # CSS Библиотеки
 
